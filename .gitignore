@@ -1,0 +1,18 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Local Environment/Secrets
+.env
+*.log
+
+# Dependencies (if you ever use npm/yarn)
+node_modules/
+
+# Build folders
+dist/
+build/
