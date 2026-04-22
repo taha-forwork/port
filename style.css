@@ -632,6 +632,10 @@ a {
     grid-template-columns: 1fr;
   }
 
+  .hero-actions {
+    justify-content: center;
+  }
+
   .footer-wrap {
     flex-direction: column;
     text-align: center;
